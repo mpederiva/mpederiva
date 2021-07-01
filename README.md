@@ -2,7 +2,7 @@
 - My pronouns are **she** | **her** | **hers**
 - I have a strong passion for working on too many projects at the same time.
 
-![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpederiva&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpederiva&theme=dark&show_icons=true)](https://github.com/mpederiva/github-readme-stats)
+![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpederiva&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpederiva&layout=compact&theme=dark&show_icons=true)](https://github.com/mpederiva/github-readme-stats)
 
 
 ### 📁 I’m learning
