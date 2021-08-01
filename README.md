@@ -1,6 +1,7 @@
 # Hey there, I'm [Marta]( https://www.linkedin.com/in/martapederiva/)
 - My pronouns are **she** | **her** | **hers**
 - I have a strong passion for working on too many projects at the same time.
+- Currently, I'm part of [Gama Academy](https://www.gama.academy)'s training program, sponsored by [Start Tech](https://ambevtech.com.br/start-tech/), as well as [Santander](https://app.becas-santander.com/pt-BR/program/santanderbootcamp)'s 2021 Bootcamp program in partnership with [Digital Innovation One](https://digitalinnovation.one/ "DIO").
 
 ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpederiva&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpederiva&layout=compact&theme=radical&show_icons=true)](https://github.com/mpederiva/github-readme-stats)
 
