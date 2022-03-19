@@ -1,7 +1,7 @@
 # Hey there, I'm [Marta]( https://www.linkedin.com/in/martapederiva/)
 - My pronouns are **she** | **her** | **hers**
 - I have a strong passion for working on too many projects at the same time.
-- Currently, I'm part of [Santander](https://app.becas-santander.com/pt-BR/program/santanderbootcamp)'s 2021 Bootcamp program in partnership with [Digital Innovation One](https://digitalinnovation.one/ "DIO").
+- Currently, I'm a [Certified Tech Devoloper](https://www.digitalhouse.com/br/landing/certified-tech-developer?utm_source=google&utm_medium=paidsearch&utm_campaign=lead&utm_term=CTD&utm_content=degree-ctd-degree-pagectd-adresponsive-lead-kwcategory-ctd-all-none-all-other-text-infoproduct-none-1830-all-br-search-none&gclid=Cj0KCQjw8eOLBhC1ARIsAOzx5cFpGMcPlCe8dqF6mhTJvvchKPYHOcQt2egbHLjlRX8d6ok5aXafEwIaAm39EALw_wcB) student.
 
 ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpederiva&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpederiva&layout=compact&theme=radical&show_icons=true)](https://github.com/mpederiva/github-readme-stats)
 
